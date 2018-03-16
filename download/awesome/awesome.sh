@@ -11,4 +11,4 @@
 # Copyright Markus Binsteiner, 2018
 #                       version 0.2
 
-echo "Awesome!"
+echo "Super awesome!"
