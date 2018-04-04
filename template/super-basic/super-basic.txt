@@ -1,0 +1,6 @@
+# __luci__:
+#   vars: 
+#     - he
+#     - she
+What he said: {{ he }}
+Then, she said: {{ she }} 
