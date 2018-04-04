@@ -8,7 +8,7 @@
 #     - name:
 #         meta:
 #           default: she
-# url: 
+# url: https://raw.githubusercontent.com/makkus/luci-examples/master/download/dev-input/dev_input
 #
 What he said: {{ he }}
 Then, {{ name }} said: {{ she }}
