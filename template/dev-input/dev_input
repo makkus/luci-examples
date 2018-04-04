@@ -1,0 +1,10 @@
+#! /usr/bin/env luci
+#
+# __luci__:
+#   __lucifier__: template
+#   vars:
+#     - he
+#     - she
+#
+What he said: {{ he }}
+Then, she said: {{ she }}

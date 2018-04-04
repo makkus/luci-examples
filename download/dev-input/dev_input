@@ -1,0 +1,14 @@
+#! /usr/bin/env luci
+#
+# __luci__:
+#   __lucifier__: template
+#   vars:
+#     - he
+#     - she
+#     - name:
+#         meta:
+#           default: she
+# url: 
+#
+What he said: {{ he }}
+Then, {{ name }} said: {{ she }}
